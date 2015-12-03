@@ -1,2 +1,2 @@
 # Recordings
-This is my recordings of everything!
+## 这是我的学习笔记
