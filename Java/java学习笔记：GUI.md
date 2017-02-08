@@ -9,7 +9,7 @@
 |容器类    |说明    |
 |----------|--------|
 |java.awt.Container|对于组件分组，Frame(框架),Panel(面板)都是它的子类|
-javax.swing.JFrame|一个不能包含在另一个窗口的窗口，用于存放其他的组件|
+|javax.swing.JFrame|一个不能包含在另一个窗口的窗口，用于存放其他的组件|
 |java.swing.JPanel|可做画图的画布|
 |java.swing.JApplet|Applet的一个子类|
 |java.swing.JDialog|一个弹出式窗口或者消息框|  
